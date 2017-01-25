@@ -8,7 +8,7 @@ public class TempVo {
 	String DOCOD;
 	String GUNNAM;
 	String GUNCOD;
-	
+	  
 	public String getDate() {
 		return date;
 	}
